@@ -13,7 +13,15 @@ public class App {
          * 
          */
         System.out.println("Hello, World estudante Java!!");
+
+        /*Para hacer el segundo cambio en este archivo, desde la terminal
+        git add .
+        git commit -m "Aqui pongo el comentario que sea"
+        git push
+        actualizar la pagina del repo en github 
+        */
         System.out.println("Este es un cambio");
+        
     }
 
 }
